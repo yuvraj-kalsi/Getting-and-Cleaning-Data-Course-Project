@@ -1,4 +1,4 @@
-*Peer graded Assignment Getting and Cleaning Data Course Project* 
+_Peer graded Assignment Getting and Cleaning Data Course Project_ 
 
 ##Getting and Cleaning Data - peer assessment project
 
@@ -23,7 +23,8 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 This file 'run_analysis.R' contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
-*About this R script*
+_About this R script_
+
 File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work):
 
 Merging the training and the test sets to create one data set.
